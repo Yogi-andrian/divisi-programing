@@ -3,3 +3,6 @@ jalur belajar divisi programing
 1. daftar html
 2. dasar css
 3. dasar css3
+4. Dasar JavaScript
+5. JavaScript ES6
+6. Dasar php
